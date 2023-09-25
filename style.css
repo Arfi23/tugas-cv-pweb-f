@@ -1,0 +1,26 @@
+.navbar {
+  background-image: linear-gradient(to right, #5259ba, #fc883c);
+}
+
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  /* background-color: rgb(148, 247, 199); */
+  /* background-image: url(img/star-wars-rogue-one-1920x1080.jpg); */
+  background-image: url(img/Astronaut\ in\ Between.jpg);
+  /* background-image: url(img/gambar\ galaxy.jpg); */
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+
+  /* -webkit-mask-image: linear-gradient(rgba(0, 0, 0, 1) 92%, rgba(0, 0, 0, 0));
+  mask-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
+}
+
+#gallery {
+  background-image: linear-gradient(to right, #5259ba, #fc883c);
+  height: 700px;
+  padding-top: 5px;
+}
