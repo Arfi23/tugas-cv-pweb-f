@@ -7,8 +7,6 @@ body {
 }
 .jumbotron {
   padding: 2rem 1rem;
-  /* background-color: rgb(148, 247, 199); */
-  /* background-image: url(img/star-wars-rogue-one-1920x1080.jpg); */
   background-image: url(img/Astronaut\ in\ Between.jpg);
   /* background-image: url(img/gambar\ galaxy.jpg); */
   background-size: cover;
