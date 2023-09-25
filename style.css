@@ -2,9 +2,9 @@
   background-image: linear-gradient(to right, #5259ba, #fc883c);
 }
 
-body {
+/* body {
   min-height: 3000px;
-}
+} */
 .jumbotron {
   padding: 2rem 1rem;
   background-image: url(img/Astronaut\ in\ Between.jpg);
@@ -21,4 +21,18 @@ body {
   background-image: linear-gradient(to right, #5259ba, #fc883c);
   height: 700px;
   padding-top: 5px;
+}
+
+#thanks {
+  margin-top: 25px;
+  color: white;
+  font-family: sans-serif;
+}
+
+.footer {
+  margin-bottom: 10px;
+  padding-top: 30px;
+  background-color: #2c1169;
+  height: 90px;
+  text-align: center;
 }
