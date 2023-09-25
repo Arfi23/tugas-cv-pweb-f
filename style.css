@@ -2,6 +2,10 @@
   background-image: linear-gradient(to right, #5259ba, #fc883c);
 }
 
+section {
+  padding-top: 20px;
+}
+
 .jumbotron {
   padding: 6rem 1rem;
   background-image: url(img/Astronaut\ in\ Between.jpg);
@@ -25,8 +29,4 @@
 .footer {
   background-color: #2c1169;
   height: 90px;
-}
-
-section {
-  padding-top: 20px;
 }
