@@ -2,19 +2,12 @@
   background-image: linear-gradient(to right, #5259ba, #fc883c);
 }
 
-/* body {
-  min-height: 3000px;
-} */
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 6rem 1rem;
   background-image: url(img/Astronaut\ in\ Between.jpg);
-  /* background-image: url(img/gambar\ galaxy.jpg); */
   background-size: cover;
   background-position: center;
-  height: 400px;
-
-  /* -webkit-mask-image: linear-gradient(rgba(0, 0, 0, 1) 92%, rgba(0, 0, 0, 0));
-  mask-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
+  height: 450px;
 }
 
 #gallery {
@@ -30,9 +23,6 @@
 }
 
 .footer {
-  margin-bottom: 10px;
-  padding-top: 30px;
   background-color: #2c1169;
   height: 90px;
-  text-align: center;
 }
